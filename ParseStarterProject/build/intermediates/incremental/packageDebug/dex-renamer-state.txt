@@ -1,0 +1,7 @@
+#Mon Jan 14 18:49:31 IST 2019
+base.0=/Users/amrutapalo/Downloads/Parse-Server-Starter-Project 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/amrutapalo/Downloads/Parse-Server-Starter-Project 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+base.1=/Users/amrutapalo/Downloads/Parse-Server-Starter-Project 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+file.0=/Users/amrutapalo/Downloads/Parse-Server-Starter-Project 2/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex
